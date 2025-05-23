@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**dhayarasouzah/dhayarasouzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ola eu sou dhayara!
+ - estudante do 1 ano b do ensino medio 
+ - colegio professores edvaldo maria janete carneiro
+ - turvo parana
+  ## sobre mim 
+  - aprendendo
+  - javascript
+  - objetivo me formar conseguir um emprego bom
+  - hobbies dormir e sair
+  ![](https://www.icegif.com/wp-content/uploads/icegif-5550.gif)
